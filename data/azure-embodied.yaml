@@ -1,0 +1,4165 @@
+- type: A1 v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A2 v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A2m v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A4 v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A4m v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A8 v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: A8m v2
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: B12MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B16MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B1LS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B1MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B1S
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B20MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B2MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B2S
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B4MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: B8MS
+  additionalmemory: 88.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1238.83
+  architecture: Unknown
+- type: DS11-1 v2
+  additionalmemory: 0
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1150
+  architecture: Unknown
+- type: DS12-1 v2
+  additionalmemory: 16.66
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1166.66
+  architecture: Unknown
+- type: DS12-2 v2
+  additionalmemory: 16.66
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1166.66
+  architecture: Unknown
+- type: DS13-2 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Unknown
+- type: DS13-4 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Unknown
+- type: DS14-4 v2
+  additionalmemory: 133.25
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1283.25
+  architecture: Unknown
+- type: DS14-8 v2
+  additionalmemory: 133.25
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1283.25
+  architecture: Unknown
+- type: E16-4as v4
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-4ds v4
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-4s v3
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-4s v4
+  additionalmemory: 155.46
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.46
+  architecture: Unknown
+- type: E16-8as v4
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-8ds v4
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-8s v3
+  additionalmemory: 155.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1305.46
+  architecture: Unknown
+- type: E16-8s v4
+  additionalmemory: 155.46
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.46
+  architecture: Unknown
+- type: E32-16as v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-16ds v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-16s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-16s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Unknown
+- type: E32-8as v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-8ds v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-8s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Unknown
+- type: E32-8s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Unknown
+- type: E4-2as v4
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Unknown
+- type: E4-2ds v4
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Unknown
+- type: E4-2s v3
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Unknown
+- type: E4-2s v4
+  additionalmemory: 22.21
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1122.21
+  architecture: Unknown
+- type: E64-16as v4
+  additionalmemory: 688.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1838.46
+  architecture: Unknown
+- type: E64-16ds v4
+  additionalmemory: 677.35
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1827.35
+  architecture: Unknown
+- type: E64-16s v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Unknown
+- type: E64-16s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Unknown
+- type: E64-32as v4
+  additionalmemory: 688.46
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1838.46
+  architecture: Unknown
+- type: E64-32ds v4
+  additionalmemory: 677.35
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1827.35
+  architecture: Unknown
+- type: E64-32s v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Unknown
+- type: E64-32s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Unknown
+- type: E8-2as v4
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-2ds v4
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-2s v3
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-2s v4
+  additionalmemory: 66.62
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1166.62
+  architecture: Unknown
+- type: E8-4as v4
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-4ds v4
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-4s v3
+  additionalmemory: 66.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1216.62
+  architecture: Unknown
+- type: E8-4s v4
+  additionalmemory: 66.62
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1166.62
+  architecture: Unknown
+- type: E96-24as v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2060.54
+  architecture: Unknown
+- type: E96-48as v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2060.54
+  architecture: Unknown
+- type: Gs4-4
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Unknown
+- type: Gs4-8
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Unknown
+- type: Gs5-16
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: Gs5-8
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: HB120-16rs v3
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1699.62
+  architecture: EPYC 3rd Gen
+- type: HB120-32rs v3
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1699.62
+  architecture: EPYC 3rd Gen
+- type: HB120-64rs v3
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1699.62
+  architecture: EPYC 3rd Gen
+- type: HB120-96rs v3
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1699.62
+  architecture: EPYC 3rd Gen
+- type: M128-32ms
+  additionalmemory: 5252.27
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6402.27
+  architecture: Unknown
+- type: M128-64ms
+  additionalmemory: 5252.27
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6402.27
+  architecture: Unknown
+- type: M16-4ms
+  additionalmemory: 585.74
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1735.74
+  architecture: Unknown
+- type: M16-8ms
+  additionalmemory: 585.74
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1735.74
+  architecture: Unknown
+- type: M32-16ms
+  additionalmemory: 1192.31
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2342.31
+  architecture: Unknown
+- type: M32-8ms
+  additionalmemory: 1192.31
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2342.31
+  architecture: Unknown
+- type: M64-16ms
+  additionalmemory: 2406.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 3556.83
+  architecture: Unknown
+- type: M64-32ms
+  additionalmemory: 2406.83
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 3556.83
+  architecture: Unknown
+- type: M8-2ms
+  additionalmemory: 281.77
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1431.77
+  architecture: Unknown
+- type: M8-4ms
+  additionalmemory: 281.77
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1431.77
+  architecture: Unknown
+- type: D1 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Haswell
+- type: D1 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Cascade Lake
+- type: D1 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Skylake
+- type: D1 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Broadwell
+- type: D2 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Haswell
+- type: D2 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Cascade Lake
+- type: D2 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Skylake
+- type: D2 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Broadwell
+- type: D3 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Haswell
+- type: D3 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Cascade Lake
+- type: D3 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Skylake
+- type: D3 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Broadwell
+- type: D4 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Haswell
+- type: D4 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Cascade Lake
+- type: D4 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Skylake
+- type: D4 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Broadwell
+- type: D5 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Haswell
+- type: D5 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Cascade Lake
+- type: D5 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Skylake
+- type: D5 v2
+  additionalmemory: 55.52
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1205.52
+  architecture: Broadwell
+- type: D11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: D12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: D13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: D14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: D15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: D15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: D15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: D15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: D15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS11 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS12 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS13 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS14 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS15 v2
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Haswell
+- type: DS15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Cascade Lake
+- type: DS15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Skylake
+- type: DS15i v2 1
+  additionalmemory: 172.11
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1322.11
+  architecture: Broadwell
+- type: DS1 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Haswell
+- type: DS1 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Cascade Lake
+- type: DS1 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Skylake
+- type: DS1 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Broadwell
+- type: DS2 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Haswell
+- type: DS2 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Cascade Lake
+- type: DS2 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Skylake
+- type: DS2 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Broadwell
+- type: DS3 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Haswell
+- type: DS3 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Cascade Lake
+- type: DS3 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Skylake
+- type: DS3 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Broadwell
+- type: DS4 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Haswell
+- type: DS4 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Cascade Lake
+- type: DS4 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Skylake
+- type: DS4 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Broadwell
+- type: DS5 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Haswell
+- type: DS5 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Cascade Lake
+- type: DS5 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Skylake
+- type: DS5 v2
+  additionalmemory: 55.52
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1255.52
+  architecture: Broadwell
+- type: D16 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D2 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D32 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D4 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D48 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D64 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D8 v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D16 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D16 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D16 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D16 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D2 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D2 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D2 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D2 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D32 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D32 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D32 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D32 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D4 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D4 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D4 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D4 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D48 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D48 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D48 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D48 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D64 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D64 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D64 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D64 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D8 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D8 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D8 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D8 v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D16a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D2a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D32a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D48a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D4a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D64a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D8a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D96a v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D16as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D2as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D32as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D48as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D4as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D64as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D8as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D96as v4
+  additionalmemory: 510.79
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1560.79
+  architecture: EPYC 2nd Gen
+- type: D16d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D2d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D32d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D48d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D4d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D64d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D8d v4
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D16ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D2ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D32ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D48ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D4ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D64ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D8ds v4
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Cascade Lake
+- type: D16s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D16s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D16s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D16s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D2s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D2s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D2s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D2s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D32s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D32s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D32s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D32s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D48s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D48s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D48s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D48s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D4s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D4s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D4s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D4s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D64s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D64s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D64s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D64s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D8s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Haswell
+- type: D8s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Cascade Lake
+- type: D8s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Skylake
+- type: D8s v4
+  additionalmemory: 333.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1433.12
+  architecture: Broadwell
+- type: D16s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D16s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D16s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D16s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D2s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D2s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D2s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D2s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D32s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D32s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D32s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D32s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D48s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D48s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D48s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D48s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D4s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D4s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D4s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D4s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D64s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D64s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D64s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D64s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: D8s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Haswell
+- type: D8s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Cascade Lake
+- type: D8s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Skylake
+- type: D8s v3
+  additionalmemory: 333.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1483.12
+  architecture: Broadwell
+- type: DC1s v2
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Coffee Lake
+- type: DC2s v2
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Coffee Lake
+- type: DC4s v2
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Coffee Lake
+- type: DC8 v2
+  additionalmemory: 22.21
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1172.21
+  architecture: Coffee Lake
+- type: E16 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E2 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E32 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E4 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E48 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E64 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E8 v4
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Cascade Lake
+- type: E16 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E2 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E20 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E32 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E4 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E48 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E64 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E8 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E96 v5
+  additionalmemory: 910.54
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2010.54
+  architecture: Unknown
+- type: E16 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E16 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E16 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E2 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E2 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E2 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E20 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E20 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E20 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E32 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E32 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E32 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E4 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E4 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E4 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E48 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E48 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E48 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E64 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E64 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E64 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E64i v3 1
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E64i v3 1
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E64i v3 1
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E8 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Broadwell
+- type: E8 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Cascade Lake
+- type: E8 v3
+  additionalmemory: 577.42
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1727.42
+  architecture: Skylake
+- type: E16a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E20a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E2a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E32a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E48a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E4a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E64a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E8a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E96a v4
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1960.54
+  architecture: EPYC 2nd Gen
+- type: E16as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E20as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E2as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E32as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E48as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E4as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E64as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E8as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E96as v4
+  additionalmemory: 910.54
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 2010.54
+  architecture: EPYC 2nd Gen
+- type: E16d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E20d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E2d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E32d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E48d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E4d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E64d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E8d v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E16ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E20ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E2ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E32ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E48ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E4ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E64ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E80ids v4 1
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E8ds v4
+  additionalmemory: 677.35
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1877.35
+  architecture: Cascade Lake
+- type: E16s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E20s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E2s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E32s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E48s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E4s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E64s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E80is v4 1
+  additionalmemory: 677.35
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1827.35
+  architecture: Cascade Lake
+- type: E8s v4
+  additionalmemory: 677.35
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.35
+  architecture: Cascade Lake
+- type: E16s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E16s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E16s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E20s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E20s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E20s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E2s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E2s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E2s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E32s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E32s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E32s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E48s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E48s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E48s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E4s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E4s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E4s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E64is v3 1
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E64is v3 1
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E64is v3 1
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E64s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E64s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E64s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: E8s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Broadwell
+- type: E8s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Cascade Lake
+- type: E8s v3
+  additionalmemory: 577.42
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1777.42
+  architecture: Skylake
+- type: F1
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Haswell
+- type: F1
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Cascade Lake
+- type: F1
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Skylake
+- type: F1
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Broadwell
+- type: F16
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Haswell
+- type: F16
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Cascade Lake
+- type: F16
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Skylake
+- type: F16
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Broadwell
+- type: F2
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Haswell
+- type: F2
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Cascade Lake
+- type: F2
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Skylake
+- type: F2
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Broadwell
+- type: F4
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Haswell
+- type: F4
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Cascade Lake
+- type: F4
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Skylake
+- type: F4
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Broadwell
+- type: F8
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Haswell
+- type: F8
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Cascade Lake
+- type: F8
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Skylake
+- type: F8
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Broadwell
+- type: F16s
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Unknown
+- type: F1s
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Unknown
+- type: F2s
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Unknown
+- type: F4s
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Unknown
+- type: F8s
+  additionalmemory: 22.21
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1222.21
+  architecture: Unknown
+- type: F16s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F16s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F2s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F2s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F32s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F32s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F48s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F48s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F4s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F4s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F64s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F64s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F72s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Skylake
+- type: F72s v2
+  additionalmemory: 177.67
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1377.67
+  architecture: Cascade Lake
+- type: F8s v2
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1799.62
+  architecture: Skylake
+- type: F8s v2
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1799.62
+  architecture: Cascade Lake
+- type: G1
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Haswell
+- type: G2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Haswell
+- type: G3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Haswell
+- type: G4
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Haswell
+- type: G5
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Haswell
+- type: Gs1
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: Gs2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: Gs3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: Gs4
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: Gs5
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1749.62
+  architecture: Unknown
+- type: H16
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16m
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16mr
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16r
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H8
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H8m
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16 Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16m Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16mr Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H16r Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H8 Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: H8m Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1438.71
+  architecture: Haswell
+- type: HB120rs v2
+  additionalmemory: 644.04
+  additionalstorage: 50
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1694.04
+  architecture: EPYC 2nd Gen
+- type: HB120rs v3
+  additionalmemory: 599.62
+  additionalstorage: 100
+  additionalcpus: 0
+  additionalgpus: 0
+  total: 1699.62
+  architecture: EPYC 3rd Gen
+- type: L16s
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Haswell
+- type: L32s
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Haswell
+- type: L4s
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Haswell
+- type: L8s
+  additionalmemory: 333.12
+  additionalstorage: 100
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 1533.12
+  architecture: Haswell
+- type: L16s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: L32s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: L48s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: L64s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: L80s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: L8s v2
+  additionalmemory: 866.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2016.12
+  architecture: EPYC 1st Gen
+- type: M128 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M128 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M128m 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M128m 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M128ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M128ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M128s
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M128s
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M16ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M16ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M32ls
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M32ls
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M32ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M32ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M32ts
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M32ts
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M64 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M64 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M64ls
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M64ls
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M64m 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M64m 1
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M64ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M64ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M64s
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M64s
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M8ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Cascade Lake
+- type: M8ms
+  additionalmemory: 5379.97
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6529.97
+  architecture: Haswell
+- type: M128dms v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M128ds v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M192idms v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M192ids v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M32dms v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M64dms v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M64ds v2
+  additionalmemory: 5663.12
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6813.12
+  architecture: Cascade Lake
+- type: M128ms v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M128s v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M192ims v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M192is v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M32ms v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M64ms v2
+  additionalmemory: 5663.12
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 6763.12
+  architecture: Cascade Lake
+- type: M64s v2
+  additionalmemory: 15801.23
+  additionalstorage: 0
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 16901.23
+  architecture: Cascade Lake
+- type: M208ms v2
+  additionalmemory: 15801.23
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 16951.23
+  architecture: Skylake
+- type: M208s v2
+  additionalmemory: 15801.23
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 16951.23
+  architecture: Skylake
+- type: M416ms v2
+  additionalmemory: 15801.23
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 16951.23
+  architecture: Skylake
+- type: M416s v2
+  additionalmemory: 15801.23
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 16951.23
+  architecture: Skylake
+- type: NC12
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC24
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC24r
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC6
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC12 Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC24 Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC24r Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC6 Promo
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NC16as T4 v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC4as T4 v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC64as T4 v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC8as T4 v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC12s v2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC24rs v2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC24s v2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC6s v2
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC12s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC24rs v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC24s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NC6s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: ND12s
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: ND24rs
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: ND24s
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: ND6s
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: ND40rs v2
+  additionalmemory: 910.54
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 1200
+  total: 3260.54
+  architecture: Unknown
+- type: NP10s
+  additionalmemory: 1043.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2193.79
+  architecture: Unknown
+- type: NP20s
+  additionalmemory: 1043.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2193.79
+  architecture: Unknown
+- type: NP40s
+  additionalmemory: 1043.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 2193.79
+  architecture: Unknown
+- type: NV12
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NV24
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NV6
+  additionalmemory: 288.71
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2038.71
+  architecture: Unknown
+- type: NV12s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NV24s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: NV48s v3
+  additionalmemory: 599.62
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 600
+  total: 2349.62
+  architecture: Unknown
+- type: S192
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S192m
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S192xm
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S384
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S384m
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S384xm
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S384xxm
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S576m
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S96
+  additionalmemory: 16634.04
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 17784.04
+  architecture: Broadwell
+- type: S224
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S224m
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S224om
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S224oo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S224oom
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S224ooo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448m
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448om
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448oo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448oom
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S448ooo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672m
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672om
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672oo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672oom
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S672ooo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896m
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896om
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896oo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896oom
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake
+- type: S896ooo
+  additionalmemory: 51145.79
+  additionalstorage: 50
+  additionalcpus: 100
+  additionalgpus: 0
+  total: 52295.79
+  architecture: Cascade Lake

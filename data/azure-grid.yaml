@@ -1,0 +1,48 @@
+- region: Central US
+  co2e: 0.00047223
+- region: East US
+  co2e: 0.000415755
+- region: East US 2
+  co2e: 0.000415755
+- region: East US 3
+  co2e: 0.000415755
+- region: North Central US
+  co2e: 0.000440187
+- region: South Central US
+  co2e: 0.000396293
+- region: West Central US
+  co2e: 0.000350861
+- region: West US
+  co2e: 0.000350861
+- region: West US 2
+  co2e: 0.000350861
+- region: West US 3
+  co2e: 0.000350861
+- region: East Asia
+  co2e: 0.00081
+- region: Southeast Asia
+  co2e: 0.0004085
+- region: North Europe
+  co2e: 0.000316
+- region: West Europe
+  co2e: 0.00039
+- region: Central India
+  co2e: 0.000708
+- region: South India
+  co2e: 0.000708
+- region: West India
+  co2e: 0.000708
+- region: UK South
+  co2e: 0.000228
+- region: UK West
+  co2e: 0.000228
+- region: France Central
+  co2e: 6.7e-05
+- region: Finland Central
+  co2e: 77
+- region: Germany West Central
+  co2e: 402
+- region: Belgium Central
+  co2e: 0.000154
+- region: Sweden Central
+  co2e: 0.000009

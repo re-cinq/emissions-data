@@ -1,0 +1,32 @@
+- architecture: Skylake
+  minwatts: 0.6446044454253452
+  maxwatts: 3.8984738056304855
+  chip: 80.43037974683544
+- architecture: Broadwell
+  minwatts: 0.7128342245989304
+  maxwatts: 3.3857473048128344
+  chip: 69.6470588235294
+- architecture: Haswell
+  minwatts: 1.9005681818181814
+  maxwatts: 5.9688982156043195
+  chip: 27.310344827586206
+- architecture: EPYC 2nd Gen
+  minwatts: 0.4742621527777778
+  maxwatts: 1.5751872939814815
+  chip: 129.77777777777777
+- architecture: Cascade Lake
+  minwatts: 0.6389493581523519
+  maxwatts: 3.6424520285114035
+  chip: 98.11764705882354
+- architecture: EPYC 3rd Gen
+  minwatts: 0.44538981119791665
+  maxwatts: 1.8719357994791666
+  chip: 128
+- architecture: Ivy Bridge
+  minwatts: 3.0369270833333335
+  maxwatts: 8.199689511111112
+  chip: 14.933333333333334
+- architecture: Sandy Bridge
+  minwatts: 2.1694411458333334
+  maxwatts: 8.550185877430936
+  chip: 16.480916030534353
