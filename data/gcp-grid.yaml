@@ -1,48 +1,24 @@
-- region: us-central1
-  co2e: 0.000479
-- region: us-east1
-  co2e: 0.0005
-- region: us-east4
-  co2e: 0.000383
-- region: us-west1
-  co2e: 0.000117
-- region: us-west2
-  co2e: 0.000248
-- region: us-west3
-  co2e: 0.000561
-- region: us-west4
-  co2e: 0.000491
-- region: asia-east1
-  co2e: 0.000541
-- region: asia-east2
-  co2e: 0.000626
-- region: asia-northeast1
-  co2e: 0.000524
-- region: asia-northeast2
-  co2e: 0.000524
-- region: asia-northeast3
-  co2e: 0.00054
-- region: asia-south1
-  co2e: 0.000723
-- region: asia-southeast1
-  co2e: 0.000493
-- region: asia-southeast2
-  co2e: 0.000772
-- region: australia-southeast1
-  co2e: 0.000725
-- region: europe-north1
-  co2e: 0.000181
-- region: europe-west1
-  co2e: 0.000196
-- region: europe-west2
-  co2e: 0.000257
-- region: europe-west3
-  co2e: 0.000319
-- region: europe-west4
-  co2e: 0.000474
-- region: europe-west6
-  co2e: 2.9e-05
-- region: northamerica-northeast1
-  co2e: 0.000143
-- region: southamerica-east1
-  co2e: 0.000109
+us-central1: 0.000479
+us-east1: 0.0005
+us-east4: 0.000383
+us-west1: 0.000117
+us-west2: 0.000248
+us-west3: 0.000561
+us-west4: 0.000491
+asia-east1: 0.000541
+asia-east2: 0.000626
+asia-northeast1: 0.000524
+asia-northeast2: 0.000524
+asia-northeast3: 0.00054
+asia-south1: 0.000723
+asia-southeast1: 0.000493
+asia-southeast2: 0.000772
+australia-southeast1: 0.000725
+europe-north1: 0.000181
+europe-west1: 0.000196
+europe-west2: 0.000257
+europe-west3: 0.000319
+europe-west4: 0.000474
+europe-west6: 2.9e-05
+northamerica-northeast1: 0.000143
+southamerica-east1: 0.000109
