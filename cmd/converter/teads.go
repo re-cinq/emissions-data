@@ -8,45 +8,9 @@ import (
 	"strconv"
 	"strings"
 
+	v2 "github.com/re-cinq/emissions-data/pkg/types/v2"
 	"gopkg.in/yaml.v2"
 )
-
-type Wattage struct {
-	Percentage int
-	Wattage    float64
-}
-
-type Instance struct {
-	Kind                 string
-	VCPU                 int
-	MemoryGB             float64
-	GPUCount             int
-	GPUMemoryGB          float64
-	StorageInfoAndSizeGB string
-	StorageType          string
-	PkgWatt              []Wattage
-	RAMWatt              []Wattage
-	GPUWatt              []Wattage
-	TotalWatt            []Wattage
-	DeltaFullMachine     float64
-	EmbodiedHourlyGCO2e  float64
-	Platform
-}
-
-type Platform struct {
-	Architecture        string
-	HardwareInformation string
-	VCPU                int
-	MemoryGB            float64
-	StorageDriveCount   int
-	GPUCount            int
-	GPUName             string
-	MemoryScope3        float64
-	StorageScope3       float64
-	GPUScope3           float64
-	CPUScope3           float64
-	TotalScope3         float64
-}
 
 func main() {
 	path := "data/v2/input-AWS-EC2-Dataset.csv"
@@ -57,7 +21,6 @@ func main() {
 	}
 
 	yamlData, _ := yaml.Marshal(&instances)
-
 	fileName := "data/v2/aws-instances.yaml"
 	err = ioutil.WriteFile(fileName, yamlData, 0644)
 	if err != nil {
@@ -108,7 +71,7 @@ func main() {
 // f 36: Instance.EmbodiedHourlyGCO2e
 // s 37: Platform.HardwareInformation
 
-func getInstanceData(path string) ([]Instance, error) {
+func getInstanceData(path string) ([]v2.Instance, error) {
 	file, err := os.Open(path)
 	if err != nil {
 		return nil, fmt.Errorf("error while getting the file: %+v", err)
@@ -122,7 +85,7 @@ func getInstanceData(path string) ([]Instance, error) {
 		return nil, fmt.Errorf("error reading in csv: %+v", err)
 	}
 
-	var instances []Instance
+	var instances []v2.Instance
 	for _, record := range records[1:] {
 
 		ivCPU, err := parseInt(record[2])
@@ -220,7 +183,7 @@ func getInstanceData(path string) ([]Instance, error) {
 			return nil, fmt.Errorf("error parsing instance hourly embodied emissions: %+v", err)
 		}
 
-		i := Instance{
+		i := v2.Instance{
 			Kind:                 record[0],
 			VCPU:                 ivCPU,
 			MemoryGB:             iMem,
@@ -235,7 +198,7 @@ func getInstanceData(path string) ([]Instance, error) {
 			DeltaFullMachine:     iDelta,
 			EmbodiedHourlyGCO2e:  iEmbodiedHr,
 		}
-		p := Platform{
+		p := v2.Platform{
 			Architecture:        record[4],
 			HardwareInformation: record[37],
 			VCPU:                pvCPU,
@@ -300,9 +263,9 @@ func parseFloat(s string) (float64, error) {
 	return i, nil
 }
 
-func parseWattage(vals ...string) ([]Wattage, error) {
+func parseWattage(vals ...string) ([]v2.Wattage, error) {
 
-	wattages := []Wattage{}
+	wattages := []v2.Wattage{}
 	for i, val := range vals {
 		v, err := parseFloat(val)
 		if err != nil {
@@ -321,7 +284,7 @@ func parseWattage(vals ...string) ([]Wattage, error) {
 			p = 100
 		}
 
-		wattages = append(wattages, Wattage{
+		wattages = append(wattages, v2.Wattage{
 			Percentage: p,
 			Wattage:    v,
 		})

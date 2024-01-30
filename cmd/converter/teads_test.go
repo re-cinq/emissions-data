@@ -7,12 +7,14 @@ import (
 	"github.com/google/go-cmp/cmp"
 	diff "github.com/r3labs/diff/v3"
 	"github.com/stretchr/testify/assert"
+
+	v2 "github.com/re-cinq/emissions-data/pkg/types/v2"
 )
 
 func TestGetInstanceData(t *testing.T) {
 	testPath := "testdata/test-input-AWS-EC2-Dataset.csv"
 
-	expected := []Instance{
+	expected := []v2.Instance{
 		{
 			Kind:                 "a1.medium",
 			VCPU:                 1,
@@ -21,7 +23,7 @@ func TestGetInstanceData(t *testing.T) {
 			StorageType:          "EBS",
 			GPUCount:             0,
 			GPUMemoryGB:          0,
-			PkgWatt: []Wattage{
+			PkgWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    0.29,
@@ -39,7 +41,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    2.55,
 				},
 			},
-			RAMWatt: []Wattage{
+			RAMWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    0.40,
@@ -57,7 +59,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    1.20,
 				},
 			},
-			GPUWatt: []Wattage{
+			GPUWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    0,
@@ -75,7 +77,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    0,
 				},
 			},
-			TotalWatt: []Wattage{
+			TotalWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    1.2,
@@ -95,7 +97,7 @@ func TestGetInstanceData(t *testing.T) {
 			},
 			DeltaFullMachine:    0.5,
 			EmbodiedHourlyGCO2e: 1.8,
-			Platform: Platform{
+			Platform: v2.Platform{
 				VCPU:                16,
 				Architecture:        "Graviton",
 				MemoryGB:            32,
@@ -118,7 +120,7 @@ func TestGetInstanceData(t *testing.T) {
 			StorageType:          "SSD",
 			GPUCount:             0,
 			GPUMemoryGB:          0,
-			PkgWatt: []Wattage{
+			PkgWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    2.77,
@@ -136,7 +138,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    22.30,
 				},
 			},
-			RAMWatt: []Wattage{
+			RAMWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    1.50,
@@ -154,7 +156,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    4.5,
 				},
 			},
-			GPUWatt: []Wattage{
+			GPUWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    0,
@@ -172,7 +174,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    0,
 				},
 			},
-			TotalWatt: []Wattage{
+			TotalWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    8.9,
@@ -192,7 +194,7 @@ func TestGetInstanceData(t *testing.T) {
 			},
 			DeltaFullMachine:    4.6,
 			EmbodiedHourlyGCO2e: 3.9,
-			Platform: Platform{
+			Platform: v2.Platform{
 				VCPU:                40,
 				Architecture:        "Xeon E5-2680 v2",
 				MemoryGB:            60,
@@ -215,7 +217,7 @@ func TestGetInstanceData(t *testing.T) {
 			StorageType:          "SSD",
 			GPUCount:             0,
 			GPUMemoryGB:          0,
-			PkgWatt: []Wattage{
+			PkgWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    5.42,
@@ -233,7 +235,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    47.53,
 				},
 			},
-			RAMWatt: []Wattage{
+			RAMWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    6.40,
@@ -251,7 +253,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    19.20,
 				},
 			},
-			GPUWatt: []Wattage{
+			GPUWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    0,
@@ -269,7 +271,7 @@ func TestGetInstanceData(t *testing.T) {
 					Wattage:    0,
 				},
 			},
-			TotalWatt: []Wattage{
+			TotalWatt: []v2.Wattage{
 				{
 					Percentage: 0,
 					Wattage:    21.2,
@@ -289,7 +291,7 @@ func TestGetInstanceData(t *testing.T) {
 			},
 			DeltaFullMachine:    9.3,
 			EmbodiedHourlyGCO2e: 7.0,
-			Platform: Platform{
+			Platform: v2.Platform{
 				VCPU:                96,
 				Architecture:        "EPYC 7R32",
 				MemoryGB:            192,
