@@ -14,8 +14,8 @@ import (
 func TestGetInstanceData(t *testing.T) {
 	testPath := "testdata/test-input-AWS-EC2-Dataset.csv"
 
-	expected := []v2.Instance{
-		{
+	expected := map[string]v2.Instance{
+		"a1.medium": {
 			Kind:                 "a1.medium",
 			VCPU:                 1,
 			MemoryGB:             2,
@@ -112,7 +112,7 @@ func TestGetInstanceData(t *testing.T) {
 				HardwareInformation: "AWS Graviton (ARM)",
 			},
 		},
-		{
+		"c3.xlarge": {
 			Kind:                 "c3.xlarge",
 			VCPU:                 4,
 			MemoryGB:             7.5,
@@ -209,7 +209,7 @@ func TestGetInstanceData(t *testing.T) {
 				HardwareInformation: "2.8 GHz Intel Xeon E5-2680v2 (Ivy Bridge) processor",
 			},
 		},
-		{
+		"c5ad.4xlarge": {
 			Kind:                 "c5ad.4xlarge",
 			VCPU:                 16,
 			MemoryGB:             32,

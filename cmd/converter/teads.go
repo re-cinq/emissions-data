@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/csv"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"strconv"
 	"strings"
@@ -22,7 +21,7 @@ func main() {
 
 	yamlData, _ := yaml.Marshal(&instances)
 	fileName := "data/v2/aws-instances.yaml"
-	err = ioutil.WriteFile(fileName, yamlData, 0644)
+	err = os.WriteFile(fileName, yamlData, 0644)
 	if err != nil {
 		fmt.Println("Unable to write data into the YAML file: ", err)
 		return
@@ -71,7 +70,7 @@ func main() {
 // f 36: Instance.EmbodiedHourlyGCO2e
 // s 37: Platform.HardwareInformation
 
-func getInstanceData(path string) ([]v2.Instance, error) {
+func getInstanceData(path string) (map[string]v2.Instance, error) {
 	file, err := os.Open(path)
 	if err != nil {
 		return nil, fmt.Errorf("error while getting the file: %+v", err)
@@ -85,7 +84,7 @@ func getInstanceData(path string) ([]v2.Instance, error) {
 		return nil, fmt.Errorf("error reading in csv: %+v", err)
 	}
 
-	var instances []v2.Instance
+	instances := make(map[string]v2.Instance)
 	for _, record := range records[1:] {
 
 		ivCPU, err := parseInt(record[2])
@@ -183,8 +182,9 @@ func getInstanceData(path string) ([]v2.Instance, error) {
 			return nil, fmt.Errorf("error parsing instance hourly embodied emissions: %+v", err)
 		}
 
+		kind := record[0]
 		i := v2.Instance{
-			Kind:                 record[0],
+			Kind:                 kind,
 			VCPU:                 ivCPU,
 			MemoryGB:             iMem,
 			GPUMemoryGB:          iGPUMem,
@@ -214,9 +214,8 @@ func getInstanceData(path string) ([]v2.Instance, error) {
 		}
 
 		i.Platform = p
-		instances = append(instances, i)
+		instances[kind] = i
 	}
-
 	return instances, nil
 }
 
@@ -291,5 +290,4 @@ func parseWattage(vals ...string) ([]v2.Wattage, error) {
 	}
 
 	return wattages, nil
-
 }
