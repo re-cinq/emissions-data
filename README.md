@@ -6,6 +6,16 @@ This intention of this repo is to collect emission data, coefficients, and machi
 
 It is still a WIP, and will be updated as the progress progresses.
 
+## Scripts
+
+We have setup [Mage](https://magefile.org/) to run various scripts, you will need to install [Mage](https://magefile.org/) in order to make use of this:
+
+```bash
+$ mage
+Targets:
+  generateGCP    generates the yaml files for GCP emissions data from csv
+```
+
 ## v1
 
 The v1 data can be generated via the `cmd/generator.go` functionality. The data itself is generated from the [CCF](https://github.com/cloud-carbon-footprint/ccf-coefficients/). The files are organized by cloud provider and by data information, specifically:
@@ -20,6 +30,7 @@ We found that having wattage information for the server in total, made calculati
 ## v2
 
 The v2 emission were inspired by the teads dataset. It provides extensive data on machine information for AWS EC2 instances.
+
 
 ### AWS
 
