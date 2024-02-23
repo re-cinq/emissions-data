@@ -12,8 +12,8 @@ import (
 )
 
 type gcpCSV struct {
-	vCPU      int
-	totalVCPU int
+	vCPU      float64
+	totalVCPU float64
 }
 
 type Embodied struct {
@@ -24,8 +24,8 @@ type Embodied struct {
 	Additionalgpus    float64 `yaml:"additionalgpus"`
 	Total             float64 `yaml:"total"`
 	Architecture      string  `yaml:"architecture"`
-	TotalVCPU         int     `yaml:"totalVCPU"`
-	VCPU              int     `yaml:"vCPU"`
+	TotalVCPU         float64 `yaml:"totalVCPU"`
+	VCPU              float64 `yaml:"vCPU"`
 }
 
 // generates the yaml files for GCP emissions data from csv
@@ -80,10 +80,10 @@ func getCSVData(filepath string) (map[string]gcpCSV, error) {
 		}
 		id := line[0]
 		ins := gcpCSV{}
-		if i, err := strconv.Atoi(line[2]); err == nil {
+		if i, err := strconv.ParseFloat(line[2], 64); err == nil {
 			ins.vCPU = i
 		}
-		if i, err := strconv.Atoi(line[3]); err == nil {
+		if i, err := strconv.ParseFloat(line[3], 64); err == nil {
 			ins.totalVCPU = i
 		}
 		// First we get a "copy" of the entry
