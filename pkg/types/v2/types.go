@@ -7,7 +7,7 @@ type Wattage struct {
 
 type Instance struct {
 	Kind                 string
-	VCPU                 int
+	VCPU                 float64
 	MemoryGB             float64
 	GPUCount             int
 	GPUMemoryGB          float64
