@@ -247,7 +247,7 @@ func getInstanceData(path string) (map[string]v2.Instance, error) {
 // parseInt converts the string to an Int, and
 // checks the conversion matching the original
 func parseInt(s string) (int, error) {
-	if s == "N/A" {
+	if s == "N/A" || s == "" {
 		s = "0"
 	}
 
@@ -266,7 +266,7 @@ func parseInt(s string) (int, error) {
 // parseFloat covnerts the input string to a
 // float64 and validates the output
 func parseFloat(s string) (float64, error) {
-	if s == "N/A" {
+	if s == "N/A" || s == "" {
 		s = "0"
 	}
 
