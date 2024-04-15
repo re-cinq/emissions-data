@@ -112,7 +112,7 @@ func getInstanceData(path string) (map[string]v2.Instance, error) {
 	instances := make(map[string]v2.Instance)
 	for _, record := range records[1:] {
 
-		ivCPU, err := parseInt(record[2])
+		ivCPU, err := parseFloat(record[2])
 		if err != nil {
 			return nil, fmt.Errorf("error parsing instance vCPU: %+v", err)
 		}
