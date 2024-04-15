@@ -3,7 +3,9 @@ package main
 import (
 	"encoding/csv"
 	"fmt"
+	"log"
 	"os"
+	"path/filepath"
 	"strconv"
 	"strings"
 
@@ -11,21 +13,44 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
+const dir = "data/raw/"
+
 func main() {
-	path := "data/v2/input-AWS-EC2-Dataset.csv"
-	instances, err := getInstanceData(path)
+	files, err := os.ReadDir(dir)
 	if err != nil {
-		fmt.Println("error getting instances: ", err)
-		return
+		log.Fatal(err)
 	}
 
-	yamlData, _ := yaml.Marshal(&instances)
-	fileName := "data/v2/aws-instances.yaml"
-	err = os.WriteFile(fileName, yamlData, 0644)
-	if err != nil {
-		fmt.Println("Unable to write data into the YAML file: ", err)
-		return
+	for _, file := range files {
+		if !file.IsDir() && filepath.Ext(file.Name()) == ".csv" {
+			log.Printf("Converting file: %s", file.Name())
+			err := convertRawData(file.Name())
+			if err != nil {
+				log.Fatal(err)
+			}
+		}
 	}
+}
+
+func convertRawData(file string) error {
+	i, err := getInstanceData(filepath.Join(dir, file))
+	if err != nil {
+		return err
+	}
+
+	// use the same name as the raw file,
+	// but change the extension to .yaml
+	// and store in the v2 dir
+	f := filepath.Join("data/v2/", file)
+	f = f[0:len(f)-len(".csv")] + ".yaml"
+
+	d, _ := yaml.Marshal(&i)
+	err = os.WriteFile(f, d, 0644)
+	if err != nil {
+		return fmt.Errorf("Unable to write data into the YAML file: %s", err)
+	}
+
+	return nil
 }
 
 // getInstanceData parses the csv data to the Instance and Platform structs
@@ -263,7 +288,6 @@ func parseFloat(s string) (float64, error) {
 }
 
 func parseWattage(vals ...string) ([]v2.Wattage, error) {
-
 	wattages := []v2.Wattage{}
 	for i, val := range vals {
 		v, err := parseFloat(val)
