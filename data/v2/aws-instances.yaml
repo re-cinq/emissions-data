@@ -17337,6 +17337,65 @@ i3.xlarge.elasticsearch:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2587.9
+i3en.2xlarge:
+  kind: i3en.2xlarge
+  vcpu: 8
+  memorygb: 64
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: 2 x 2.500 NVMe SSD
+  storagetype: SSD
+  pkgwatt:
+  - percentage: 0
+    wattage: 4.82
+  - percentage: 10
+    wattage: 12.22
+  - percentage: 50
+    wattage: 28.64
+  - percentage: 100
+    wattage: 39.83
+  ramwatt:
+  - percentage: 0
+    wattage: 9.64
+  - percentage: 10
+    wattage: 15.4
+  - percentage: 50
+    wattage: 39.68
+  - percentage: 100
+    wattage: 63.97
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 22.5
+  - percentage: 10
+    wattage: 35.6
+  - percentage: 50
+    wattage: 76.3
+  - percentage: 100
+    wattage: 111.8
+  deltafullmachine: 8
+  embodiedhourlygco2e: 4.7
+  platform:
+    architecture: Xeon Platinum 8175M
+    hardwareinformation: 3.1 GHz all core turbo Intel Xeon Scalable (Skylake) processors
+    vcpu: 96
+    memorygb: 768
+    storagedrivecount: 8
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 1042.9
+    storagescope3: 800
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 2942.9
 i3en.3xlarge:
   kind: i3en.3xlarge
   vcpu: 12
@@ -17573,65 +17632,6 @@ i3en.24xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2942.9
-i3en.2xlarge:
-  kind: i3en.2xlarge
-  vcpu: 8
-  memorygb: 64
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: 2 x 2.500 NVMe SSD
-  storagetype: SSD
-  pkgwatt:
-  - percentage: 0
-    wattage: 4.82
-  - percentage: 10
-    wattage: 12.22
-  - percentage: 50
-    wattage: 28.64
-  - percentage: 100
-    wattage: 39.83
-  ramwatt:
-  - percentage: 0
-    wattage: 9.64
-  - percentage: 10
-    wattage: 15.4
-  - percentage: 50
-    wattage: 39.68
-  - percentage: 100
-    wattage: 63.97
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 22.5
-  - percentage: 10
-    wattage: 35.6
-  - percentage: 50
-    wattage: 76.3
-  - percentage: 100
-    wattage: 111.8
-  deltafullmachine: 8
-  embodiedhourlygco2e: 4.7
-  platform:
-    architecture: Xeon Platinum 8175M
-    hardwareinformation: 3.1 GHz all core turbo Intel Xeon Scalable (Skylake) processors
-    vcpu: 96
-    memorygb: 768
-    storagedrivecount: 8
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 1042.9
-    storagescope3: 800
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 2942.9
 i3en.large:
   kind: i3en.large
   vcpu: 2
@@ -17809,6 +17809,66 @@ i3en.xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2942.9
+inf1.24xlarge:
+  kind: inf1.24xlarge
+  vcpu: 96
+  memorygb: 192
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: EBS only
+  storagetype: EBS
+  pkgwatt:
+  - percentage: 0
+    wattage: 57.93
+  - percentage: 10
+    wattage: 175.53
+  - percentage: 50
+    wattage: 448.31
+  - percentage: 100
+    wattage: 626.76
+  ramwatt:
+  - percentage: 0
+    wattage: 36.55
+  - percentage: 10
+    wattage: 66.26
+  - percentage: 50
+    wattage: 138.37
+  - percentage: 100
+    wattage: 210.48
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 190.5
+  - percentage: 10
+    wattage: 337.8
+  - percentage: 50
+    wattage: 682.7
+  - percentage: 100
+    wattage: 933.2
+  deltafullmachine: 96
+  embodiedhourlygco2e: 25.9
+  platform:
+    architecture: Xeon Platinum 8275CL
+    hardwareinformation: '16 Inferencia chips - Comment: the estimated Scope 3 does
+      not include the Inferencia chips'
+    vcpu: 96
+    memorygb: 192
+    storagedrivecount: 0
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 244.1
+    storagescope3: 0
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 1344.1
 inf1.2xlarge:
   kind: inf1.2xlarge
   vcpu: 8
@@ -17918,66 +17978,6 @@ inf1.6xlarge:
   platform:
     architecture: Xeon Platinum 8275CL
     hardwareinformation: '4 Inferencia chips - Comment: the estimated Scope 3 does
-      not include the Inferencia chips'
-    vcpu: 96
-    memorygb: 192
-    storagedrivecount: 0
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 244.1
-    storagescope3: 0
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 1344.1
-inf1.24xlarge:
-  kind: inf1.24xlarge
-  vcpu: 96
-  memorygb: 192
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: EBS only
-  storagetype: EBS
-  pkgwatt:
-  - percentage: 0
-    wattage: 57.93
-  - percentage: 10
-    wattage: 175.53
-  - percentage: 50
-    wattage: 448.31
-  - percentage: 100
-    wattage: 626.76
-  ramwatt:
-  - percentage: 0
-    wattage: 36.55
-  - percentage: 10
-    wattage: 66.26
-  - percentage: 50
-    wattage: 138.37
-  - percentage: 100
-    wattage: 210.48
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 190.5
-  - percentage: 10
-    wattage: 337.8
-  - percentage: 50
-    wattage: 682.7
-  - percentage: 100
-    wattage: 933.2
-  deltafullmachine: 96
-  embodiedhourlygco2e: 25.9
-  platform:
-    architecture: Xeon Platinum 8275CL
-    hardwareinformation: '16 Inferencia chips - Comment: the estimated Scope 3 does
       not include the Inferencia chips'
     vcpu: 96
     memorygb: 192
@@ -20420,6 +20420,124 @@ m5.xlarge.elasticsearch:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 1610.4
+m5a.4xlarge:
+  kind: m5a.4xlarge
+  vcpu: 16
+  memorygb: 64
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: EBS-Only
+  storagetype: EBS
+  pkgwatt:
+  - percentage: 0
+    wattage: 7.74
+  - percentage: 10
+    wattage: 21.22
+  - percentage: 50
+    wattage: 50.15
+  - percentage: 100
+    wattage: 67.9
+  ramwatt:
+  - percentage: 0
+    wattage: 12.8
+  - percentage: 10
+    wattage: 19.2
+  - percentage: 50
+    wattage: 25.6
+  - percentage: 100
+    wattage: 38.4
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 33.9
+  - percentage: 10
+    wattage: 53.8
+  - percentage: 50
+    wattage: 89.1
+  - percentage: 100
+    wattage: 119.6
+  deltafullmachine: 13.3
+  embodiedhourlygco2e: 5.2
+  platform:
+    architecture: EPYC 7571
+    hardwareinformation: 2.5 GHz AMD EPYC 7000 Series Processor
+    vcpu: 96
+    memorygb: 384
+    storagedrivecount: 0
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 510.4
+    storagescope3: 0
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 1610.4
+m5a.16xlarge:
+  kind: m5a.16xlarge
+  vcpu: 64
+  memorygb: 256
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: EBS-Only
+  storagetype: EBS
+  pkgwatt:
+  - percentage: 0
+    wattage: 30.97
+  - percentage: 10
+    wattage: 84.87
+  - percentage: 50
+    wattage: 200.6
+  - percentage: 100
+    wattage: 271.61
+  ramwatt:
+  - percentage: 0
+    wattage: 51.2
+  - percentage: 10
+    wattage: 76.8
+  - percentage: 50
+    wattage: 102.4
+  - percentage: 100
+    wattage: 153.6
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 135.5
+  - percentage: 10
+    wattage: 215
+  - percentage: 50
+    wattage: 356.3
+  - percentage: 100
+    wattage: 478.5
+  deltafullmachine: 53.3
+  embodiedhourlygco2e: 20.7
+  platform:
+    architecture: EPYC 7571
+    hardwareinformation: 2.5 GHz AMD EPYC 7000 Series Processor
+    vcpu: 96
+    memorygb: 384
+    storagedrivecount: 0
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 510.4
+    storagescope3: 0
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 1610.4
 m5a.24xlarge:
   kind: m5a.24xlarge
   vcpu: 96
@@ -20538,65 +20656,6 @@ m5a.2xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 1610.4
-m5a.4xlarge:
-  kind: m5a.4xlarge
-  vcpu: 16
-  memorygb: 64
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: EBS-Only
-  storagetype: EBS
-  pkgwatt:
-  - percentage: 0
-    wattage: 7.74
-  - percentage: 10
-    wattage: 21.22
-  - percentage: 50
-    wattage: 50.15
-  - percentage: 100
-    wattage: 67.9
-  ramwatt:
-  - percentage: 0
-    wattage: 12.8
-  - percentage: 10
-    wattage: 19.2
-  - percentage: 50
-    wattage: 25.6
-  - percentage: 100
-    wattage: 38.4
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 33.9
-  - percentage: 10
-    wattage: 53.8
-  - percentage: 50
-    wattage: 89.1
-  - percentage: 100
-    wattage: 119.6
-  deltafullmachine: 13.3
-  embodiedhourlygco2e: 5.2
-  platform:
-    architecture: EPYC 7571
-    hardwareinformation: 2.5 GHz AMD EPYC 7000 Series Processor
-    vcpu: 96
-    memorygb: 384
-    storagedrivecount: 0
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 510.4
-    storagescope3: 0
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 1610.4
 m5a.8xlarge:
   kind: m5a.8xlarge
   vcpu: 32
@@ -20702,65 +20761,6 @@ m5a.12xlarge:
     wattage: 358.9
   deltafullmachine: 40
   embodiedhourlygco2e: 15.5
-  platform:
-    architecture: EPYC 7571
-    hardwareinformation: 2.5 GHz AMD EPYC 7000 Series Processor
-    vcpu: 96
-    memorygb: 384
-    storagedrivecount: 0
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 510.4
-    storagescope3: 0
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 1610.4
-m5a.16xlarge:
-  kind: m5a.16xlarge
-  vcpu: 64
-  memorygb: 256
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: EBS-Only
-  storagetype: EBS
-  pkgwatt:
-  - percentage: 0
-    wattage: 30.97
-  - percentage: 10
-    wattage: 84.87
-  - percentage: 50
-    wattage: 200.6
-  - percentage: 100
-    wattage: 271.61
-  ramwatt:
-  - percentage: 0
-    wattage: 51.2
-  - percentage: 10
-    wattage: 76.8
-  - percentage: 50
-    wattage: 102.4
-  - percentage: 100
-    wattage: 153.6
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 135.5
-  - percentage: 10
-    wattage: 215
-  - percentage: 50
-    wattage: 356.3
-  - percentage: 100
-    wattage: 478.5
-  deltafullmachine: 53.3
-  embodiedhourlygco2e: 20.7
   platform:
     architecture: EPYC 7571
     hardwareinformation: 2.5 GHz AMD EPYC 7000 Series Processor
@@ -21364,65 +21364,6 @@ m5ad.xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2010.4
-m5d.24xlarge:
-  kind: m5d.24xlarge
-  vcpu: 96
-  memorygb: 384
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: 4 x 900 NVMe SSD
-  storagetype: SSD
-  pkgwatt:
-  - percentage: 0
-    wattage: 57.88
-  - percentage: 10
-    wattage: 146.63
-  - percentage: 50
-    wattage: 343.7
-  - percentage: 100
-    wattage: 477.98
-  ramwatt:
-  - percentage: 0
-    wattage: 57.81
-  - percentage: 10
-    wattage: 92.39
-  - percentage: 50
-    wattage: 238.1
-  - percentage: 100
-    wattage: 383.81
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 211.7
-  - percentage: 10
-    wattage: 335
-  - percentage: 50
-    wattage: 677.8
-  - percentage: 100
-    wattage: 957.8
-  deltafullmachine: 96
-  embodiedhourlygco2e: 38.8
-  platform:
-    architecture: Xeon Platinum 8175M
-    hardwareinformation: Up to 3.1 GHz Intel Xeon Platinum 8175M
-    vcpu: 96
-    memorygb: 384
-    storagedrivecount: 4
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 510.4
-    storagescope3: 400
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 2010.4
 m5d.2xlarge:
   kind: m5d.2xlarge
   vcpu: 8
@@ -21705,6 +21646,65 @@ m5d.16xlarge:
     wattage: 638.5
   deltafullmachine: 64
   embodiedhourlygco2e: 25.9
+  platform:
+    architecture: Xeon Platinum 8175M
+    hardwareinformation: Up to 3.1 GHz Intel Xeon Platinum 8175M
+    vcpu: 96
+    memorygb: 384
+    storagedrivecount: 4
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 510.4
+    storagescope3: 400
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 2010.4
+m5d.24xlarge:
+  kind: m5d.24xlarge
+  vcpu: 96
+  memorygb: 384
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: 4 x 900 NVMe SSD
+  storagetype: SSD
+  pkgwatt:
+  - percentage: 0
+    wattage: 57.88
+  - percentage: 10
+    wattage: 146.63
+  - percentage: 50
+    wattage: 343.7
+  - percentage: 100
+    wattage: 477.98
+  ramwatt:
+  - percentage: 0
+    wattage: 57.81
+  - percentage: 10
+    wattage: 92.39
+  - percentage: 50
+    wattage: 238.1
+  - percentage: 100
+    wattage: 383.81
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 211.7
+  - percentage: 10
+    wattage: 335
+  - percentage: 50
+    wattage: 677.8
+  - percentage: 100
+    wattage: 957.8
+  deltafullmachine: 96
+  embodiedhourlygco2e: 38.8
   platform:
     architecture: Xeon Platinum 8175M
     hardwareinformation: Up to 3.1 GHz Intel Xeon Platinum 8175M
@@ -30026,6 +30026,66 @@ r5d.xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2542.9
+r5dn.24xlarge:
+  kind: r5dn.24xlarge
+  vcpu: 96
+  memorygb: 768
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: 4 x 900 NVMe SSD
+  storagetype: SSD
+  pkgwatt:
+  - percentage: 0
+    wattage: 54.71
+  - percentage: 10
+    wattage: 137.92
+  - percentage: 50
+    wattage: 306.93
+  - percentage: 100
+    wattage: 445.38
+  ramwatt:
+  - percentage: 0
+    wattage: 119.43
+  - percentage: 10
+    wattage: 197.66
+  - percentage: 50
+    wattage: 353.78
+  - percentage: 100
+    wattage: 509.9
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 258.1
+  - percentage: 10
+    wattage: 419.6
+  - percentage: 50
+    wattage: 744.7
+  - percentage: 100
+    wattage: 1039.3
+  deltafullmachine: 84
+  embodiedhourlygco2e: 49.1
+  platform:
+    architecture: Xeon Platinum 8259CL
+    hardwareinformation: Up to 3.5 GHz 2nd generation Intel Xeon Scalable Processors
+      (Cascade Lake)
+    vcpu: 96
+    memorygb: 768
+    storagedrivecount: 4
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 1042.9
+    storagescope3: 400
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 2542.9
 r5dn.2xlarge:
   kind: r5dn.2xlarge
   vcpu: 8
@@ -30326,66 +30386,6 @@ r5dn.16xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2542.9
-r5dn.24xlarge:
-  kind: r5dn.24xlarge
-  vcpu: 96
-  memorygb: 768
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: 4 x 900 NVMe SSD
-  storagetype: SSD
-  pkgwatt:
-  - percentage: 0
-    wattage: 54.71
-  - percentage: 10
-    wattage: 137.92
-  - percentage: 50
-    wattage: 306.93
-  - percentage: 100
-    wattage: 445.38
-  ramwatt:
-  - percentage: 0
-    wattage: 119.43
-  - percentage: 10
-    wattage: 197.66
-  - percentage: 50
-    wattage: 353.78
-  - percentage: 100
-    wattage: 509.9
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 258.1
-  - percentage: 10
-    wattage: 419.6
-  - percentage: 50
-    wattage: 744.7
-  - percentage: 100
-    wattage: 1039.3
-  deltafullmachine: 84
-  embodiedhourlygco2e: 49.1
-  platform:
-    architecture: Xeon Platinum 8259CL
-    hardwareinformation: Up to 3.5 GHz 2nd generation Intel Xeon Scalable Processors
-      (Cascade Lake)
-    vcpu: 96
-    memorygb: 768
-    storagedrivecount: 4
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 1042.9
-    storagescope3: 400
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 2542.9
 r5dn.large:
   kind: r5dn.large
   vcpu: 2
@@ -30566,66 +30566,6 @@ r5dn.xlarge:
     gpuscope3: 0
     cpuscope3: 100
     totalscope3: 2542.9
-r5n.2xlarge:
-  kind: r5n.2xlarge
-  vcpu: 8
-  memorygb: 64
-  gpucount: 0
-  gpumemorygb: 0
-  storageinfoandsizegb: EBS-Only
-  storagetype: EBS
-  pkgwatt:
-  - percentage: 0
-    wattage: 4.56
-  - percentage: 10
-    wattage: 11.49
-  - percentage: 50
-    wattage: 25.58
-  - percentage: 100
-    wattage: 37.12
-  ramwatt:
-  - percentage: 0
-    wattage: 9.95
-  - percentage: 10
-    wattage: 16.47
-  - percentage: 50
-    wattage: 29.48
-  - percentage: 100
-    wattage: 42.49
-  gpuwatt:
-  - percentage: 0
-    wattage: 0
-  - percentage: 10
-    wattage: 0
-  - percentage: 50
-    wattage: 0
-  - percentage: 100
-    wattage: 0
-  totalwatt:
-  - percentage: 0
-    wattage: 21.5
-  - percentage: 10
-    wattage: 35
-  - percentage: 50
-    wattage: 62.1
-  - percentage: 100
-    wattage: 86.6
-  deltafullmachine: 7
-  embodiedhourlygco2e: 3.4
-  platform:
-    architecture: Xeon Platinum 8259CL
-    hardwareinformation: Up to 3.5 GHz 2nd generation Intel Xeon Scalable Processors
-      (Cascade Lake)
-    vcpu: 96
-    memorygb: 768
-    storagedrivecount: 0
-    gpucount: 0
-    gpuname: N/A
-    memoryscope3: 1042.9
-    storagescope3: 0
-    gpuscope3: 0
-    cpuscope3: 100
-    totalscope3: 2142.9
 r5n.4xlarge:
   kind: r5n.4xlarge
   vcpu: 16
@@ -30912,6 +30852,66 @@ r5n.24xlarge:
     wattage: 1039.3
   deltafullmachine: 84
   embodiedhourlygco2e: 41.3
+  platform:
+    architecture: Xeon Platinum 8259CL
+    hardwareinformation: Up to 3.5 GHz 2nd generation Intel Xeon Scalable Processors
+      (Cascade Lake)
+    vcpu: 96
+    memorygb: 768
+    storagedrivecount: 0
+    gpucount: 0
+    gpuname: N/A
+    memoryscope3: 1042.9
+    storagescope3: 0
+    gpuscope3: 0
+    cpuscope3: 100
+    totalscope3: 2142.9
+r5n.2xlarge:
+  kind: r5n.2xlarge
+  vcpu: 8
+  memorygb: 64
+  gpucount: 0
+  gpumemorygb: 0
+  storageinfoandsizegb: EBS-Only
+  storagetype: EBS
+  pkgwatt:
+  - percentage: 0
+    wattage: 4.56
+  - percentage: 10
+    wattage: 11.49
+  - percentage: 50
+    wattage: 25.58
+  - percentage: 100
+    wattage: 37.12
+  ramwatt:
+  - percentage: 0
+    wattage: 9.95
+  - percentage: 10
+    wattage: 16.47
+  - percentage: 50
+    wattage: 29.48
+  - percentage: 100
+    wattage: 42.49
+  gpuwatt:
+  - percentage: 0
+    wattage: 0
+  - percentage: 10
+    wattage: 0
+  - percentage: 50
+    wattage: 0
+  - percentage: 100
+    wattage: 0
+  totalwatt:
+  - percentage: 0
+    wattage: 21.5
+  - percentage: 10
+    wattage: 35
+  - percentage: 50
+    wattage: 62.1
+  - percentage: 100
+    wattage: 86.6
+  deltafullmachine: 7
+  embodiedhourlygco2e: 3.4
   platform:
     architecture: Xeon Platinum 8259CL
     hardwareinformation: Up to 3.5 GHz 2nd generation Intel Xeon Scalable Processors
